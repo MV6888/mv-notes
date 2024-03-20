@@ -1,0 +1,123 @@
+[XDebug]
+zend_extension = xdebug
+
+
+
+C:/xampp/php/php.exe
+
+
+
+---------------------------------------------------
+
+
+
+.find - is used only if data is in array. 
+
+it's error shows - .find is not a function
+
+if .find is neccessary means , convert the obj data to array
+
+
+---------------------------------------------------
+
+
+
+html input name and php isset post [ value ] have same name , same notation
+
+if its not same, then it will show parse error or parse json error somthing like that
+
+
+---------------------------------------------------
+
+Scheme:
+scheme  ----> http://
+
+Authority
+www.example.com:80
+
+Domain Name  ----> www.example.com
+Port ---->80
+
+
+---------------------------------------------------
+
+HTTP status Codes:(xx means 0 to 99)
+------------------
+1xx ===> Informational
+
+2xx ===> Success
+
+3xx ===> Redirection
+
+4xx ===> Client Error
+
+5xx ===> Server Error
+
+--------------------------------------------------
+
+
+
+DNS => Domain Name System
+
+domain name to ip address.       
+ip address to domain name.
+
+DNS have 3 servers ===> 1) Root Server.
+			2) Domain Server.
+			3) Name Server.
+
+
+
+
+---------------------------------------------------
+
+Git Hub Connection:
+------------------
+
+vs code terminal  ---> 	git clone "url"	 
+  
+(folder/repository) ==>	cd "folder name"  
+ 
+			git status   
+
+git waiting area   ==>  git add "file name"  --> 
+
+			git commit -m "discribe" ->
+
+			git push origin main
+
+			git pull
+
+			
+ modified file --> add --> commit --> push
+
+
+			cd.. ==> for change folder
+			
+			cd "folder name"
+
+ for .git folder in folder to link repository in 
+git      ===>		git init
+
+for all modified file==>git add . 
+
+			git remote add origin "url"
+
+check branch name  ==>  git branch
+
+change branch to main=> git branch -M main
+
+check branches  ==> 	git branch -a
+
+change branch<->branch=>git checkout "branch name"
+
+diffb/w main&subbranch=>git diff "rep name"
+
+merge sub->main branch=>git merge "rep name"
+
+create branch    ===>	git branch "branch name"
+
+insert new branch  ===> git push origin "new branch"
+
+						
+---------------------------------------------------
